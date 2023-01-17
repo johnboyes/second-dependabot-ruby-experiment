@@ -1,3 +1,3 @@
 source "https://rubygems.org"
 
-gem 'redis', '~> 3.3'
+gem 'redis', '~> 5.0'
